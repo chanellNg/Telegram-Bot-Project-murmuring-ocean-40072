@@ -4212,7 +4212,7 @@ def help_snooze(update, context):
                                       "Okok I talk finish liao, faster go do your work! 🤧"),
                                   parse_mode=telegram.ParseMode.MARKDOWN_V2)
     
-    context.bot.send_photo(chat_id=query.message.chat_id, photo=open(r"C:\Users\65968\Documents\murmuring-ocean-40072\Instructions_Snooze.jpg", 'rb'))
+    context.bot.send_photo(chat_id=query.message.chat_id, photo=open(r"Instructions_Snooze.jpg", 'rb'))
     chat_type = context.chat_data['chat_type']
 
     if chat_type == 'private':
