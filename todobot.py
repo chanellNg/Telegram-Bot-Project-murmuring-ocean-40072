@@ -20,7 +20,7 @@ import os
 api_id = 1665385
 api_hash = 'cdf2fc6fe9c4ee703e6d1940da92eeb6'
 PORT = int(os.environ.get('PORT', 5000))
-TOKEN = '1190868363:AAHWra_a4JteryuJBFNhZyAk-lKlMxY3udo'
+TOKEN = '1347940499:AAHRH7u0KI4zD3SPqx-GVuRD1Jiz4uL9WSs'
 
 
 #################################### STATES ####################################
