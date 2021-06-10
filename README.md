@@ -8,7 +8,6 @@ Telegram handle @doYourWorkLahBot (http://t.me/doYourWorkLahBot)
 
 The Telegram Bot provides a platform for individuals or groups to have reminders of their to-do list. The design of the reminders will be customizable such that students can choose the type of reminders they want. 
 
-<br />
 Example Options for reminders:
 <br />
 Group: `Group reminder for a project deadline`
@@ -19,9 +18,9 @@ CCA: `Customizable reminders for CCA activities`
 <br />
 Social gatherings/activities: `Customizable reminders of meetup details` 
 <br />
-Snooze : `“snooze” options when a reminder pops up to allow users to delay their tasks at hand for 10 minutes, while making sure that they will receive another reminder in the future so that the task will not be forgotten.` 
-
+Snooze : `“snooze” options when a reminder pops up to allow users to delay their tasks at hand for 10 minutes, while making sure that they will receive another reminder in the future so that the task will not be forgotten.`
 <br />
+
 
 **How to use:**
 
@@ -44,6 +43,6 @@ Also, do remember to add the Telegram Bot to the group you wish to test it in.
 
 *Video Walkthrough*
 <br />
-Please refer to this link for a video walkthrough of our Telegram Bot: https://youtu.be/Y5JEtsMqS6s
+Please refer to this link for a video walkthrough of our Telegram Bot: https://drive.google.com/file/d/1fcvmJc4BloLkgkL4l9Ixf3wWRnjILFc_/view?usp=sharing
 
 
